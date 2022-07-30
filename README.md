@@ -1,4 +1,8 @@
-### Hi there 👋
+hello :)
+
+i am a student in philadelphia who likes to make things 
+
+slowly learning to code beyond basic websites i made for friends and random projects
 
 <!--
 **dirtydishes/dirtydishes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
