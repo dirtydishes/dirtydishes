@@ -1,8 +1,10 @@
 hello :)
 
-i am a student in philadelphia who likes to make things 
+i am a student in philadelphia who likes to make things... (super cliche probably lol)
 
-slowly learning to code beyond basic websites i made for friends and random projects
+i have finally decided to learn to code beyond super basic websites i made for friends and other random projects over the past decade. i've wanted to do this for a long time, and it's time i go all the way. 
+
+i spent the first few years of my life in a very crooked house in Mount Airy. i still recall sneaking onto my family's Compaq desktop computer early in the morning before my parents would wake. my mother was always afraid i would somehow break the thing, but she showed me the ropes ("if anything happens and you don't know what to do, click the big red X!"), unknowingly igniting a fiery passion that would follow me for decades to come. 
 
 <!--
 **dirtydishes/dirtydishes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
